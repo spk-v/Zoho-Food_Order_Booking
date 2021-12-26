@@ -14,7 +14,7 @@
     <img src="/Output/2.PNG" width=700 height=80></pre>
     
  4. <pre>Run the code
-    <img src="/Output/3.PNG" width=700 height=200>/<pre>
+    <img src="/Output/3.PNG" width=700 height=200></pre>
     
  ## Execution and Output:
   * <pre><img src="/Output/4.PNG" width=700 height=600></pre>
